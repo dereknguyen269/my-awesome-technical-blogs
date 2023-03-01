@@ -23,8 +23,8 @@
 ### Learn Technicals
 
 ### Improve Career Path
-- Improve system design skills, everything ( [ByteByteGo](https://blog.bytebytego.com/) )
-- Vietnamese grokking ( [Grokking Vietnam](https://newsletter.grokking.org/) )
+- **[ByteByteGo](https://blog.bytebytego.com/)** - Improve system design skills, everything
+- **[Grokking Vietnam](https://newsletter.grokking.org/)** - Vietnamese grokking
 
 
 ### Tech Companies Blog
